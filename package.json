@@ -1,0 +1,23 @@
+{
+  "name": "microverse-html-css-linters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsheporamantso/Microverse-html-css-linters.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsheporamantso/Microverse-html-css-linters/issues"
+  },
+  "homepage": "https://github.com/tsheporamantso/Microverse-html-css-linters#readme",
+  "devDependencies": {
+    "hint": "^7.1.3"
+  }
+}
